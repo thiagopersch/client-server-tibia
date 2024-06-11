@@ -1,5 +1,5 @@
 build
-data/things
+data/things/*
 pdbs
 CMakeCache.txt
 CMakeFiles
@@ -126,3 +126,5 @@ ipch/
 # ReSharper is a .NET coding add-in
 _ReSharper*/
 *.[Rr]e[Ss]harper
+
+vc*/
