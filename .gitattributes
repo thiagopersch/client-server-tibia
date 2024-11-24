@@ -5,3 +5,4 @@
 *.cpp eol=lf 
 *.h   eol=lf 
 *.rar eol=lf 
+*.psd filter=lfs diff=lfs merge=lfs -text
